@@ -1,5 +1,5 @@
 {
-  "name": "vue-app",
+  "name": "test",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -42,5 +42,20 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeLange1s/Test.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Lukelange1s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukeLange1s/Test/issues"
+  },
+  "homepage": "https://github.com/LukeLange1s/Test#readme"
 }
