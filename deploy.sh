@@ -17,6 +17,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 
-git push -f git@github.com:LukeLang1s/test.git master:gh-pages
+git push -f git@github.com:LukeLange1s/Test.git master:gh-pages
 
 cd -
